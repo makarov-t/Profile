@@ -8,4 +8,4 @@
 2. Прошел курсы Kotlin QA Enginier
 3. Изучаю Spring
 4. ### Дополнительно
-5. Вот ![картинка](https://www.goha.ru/s/E:CO/go/UsMktqXJ79.jpg)
+5. Вот ![картинка](UsMktqXJ79.jpg)
